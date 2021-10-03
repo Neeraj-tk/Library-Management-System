@@ -1,5 +1,5 @@
 # Library-Management-System   
-This repo implements a library management system which maintains details of books and members of a library efficeintly uing B-tree   
+This repository implements a Library Management System which maintains details of books and members of a library efficeintly uing B-tree   
 It implements the following features :
    * **Add new books to the database**    
    * **Add new members to the database**
